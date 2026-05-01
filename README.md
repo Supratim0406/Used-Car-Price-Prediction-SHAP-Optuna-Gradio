@@ -46,8 +46,8 @@ The dataset contains information on 6000+ used cars sold in India.
 
 ## Model Performance
 After tuning hyperparameters with Optuna, the final XGBoost model achieved:
-* **R2 Score:** ~0.85 (85% variance explained)
-* **RMSE:** ~0.20 (Log Scale)
+* **R2 Score:** ~0.90 (90% variance explained)
+* **RMSE:** ~0.3421 (Log Scale)
 * *Interpretation: The model's predictions are typically within 15-20% of the actual market price.*
 
 ## 🖼️ Screenshots
